@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'SVN-Primark';
+    src: url('SVN-Primark-Regular.eot');
+    src: url('SVN-Primark-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SVN-Primark-Regular.woff2') format('woff2'),
+        url('SVN-Primark-Regular.woff') format('woff'),
+        url('SVN-Primark-Regular.ttf') format('truetype'),
+        url('SVN-Primark-Regular.svg#SVN-Primark-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Spooky Witchy';
+    src: url('SVN-SpookyWitchy-Regular.eot');
+    src: url('SVN-SpookyWitchy-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SVN-SpookyWitchy-Regular.woff2') format('woff2'),
+        url('SVN-SpookyWitchy-Regular.woff') format('woff'),
+        url('SVN-SpookyWitchy-Regular.ttf') format('truetype'),
+        url('SVN-SpookyWitchy-Regular.svg#SVN-SpookyWitchy-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Tangerine HB';
+    src: url('SVN-TangerineHB-Regular.eot');
+    src: url('SVN-TangerineHB-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SVN-TangerineHB-Regular.woff2') format('woff2'),
+        url('SVN-TangerineHB-Regular.woff') format('woff'),
+        url('SVN-TangerineHB-Regular.ttf') format('truetype'),
+        url('SVN-TangerineHB-Regular.svg#SVN-TangerineHB-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
